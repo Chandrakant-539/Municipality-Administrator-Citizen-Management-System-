@@ -1,0 +1,144 @@
+# Municipality Administrator Citizen Management System
+
+## 📌 Project Overview
+
+The **Municipality Administrator Citizen Management System** is a web-based application designed to manage communication and services between municipality administrators, employees, and citizens. The system provides a simple digital platform where citizens can log in, submit requests, make complaints, and view payment-related information. Municipality administrators and employees can manage citizen data, handle service requests, process complaints, and maintain municipal records.
+
+This project is useful for improving the efficiency of municipality services by reducing manual paperwork and providing a centralized platform for citizen service management.
+
+---
+
+## 🎯 Objectives
+
+The main objectives of this project are:
+
+- To provide an online platform for municipality service management.
+- To allow citizens to submit requests and complaints digitally.
+- To help administrators manage citizens, employees, payments, requests, and complaints.
+- To reduce manual record keeping and improve service tracking.
+- To provide role-based access for Admin, Citizen, and Municipality Employee.
+
+---
+
+## 🧩 Main Modules
+
+### 1. Citizen Module
+
+The citizen module allows registered citizens to access municipality services online.
+
+Features:
+
+- Citizen login
+- View personal profile
+- Submit service requests
+- Submit complaints
+- View payment details
+- Track request status
+
+---
+
+### 2. Administrator Module
+
+The administrator module is used by municipality administrators to manage the overall system.
+
+Features:
+
+- Admin login
+- Manage citizen records
+- Manage municipality employees
+- View and handle citizen requests
+- View and handle complaints
+- Manage payment records
+- Maintain municipality-related information
+
+---
+
+### 3. Municipality Employee Module
+
+The employee module allows municipality staff members to access assigned tasks and manage citizen-related services.
+
+Features:
+
+- Employee login
+- View assigned requests
+- Manage complaints
+- Support administrative operations
+- Update service-related information
+
+---
+
+## 🛠️ Technologies Used
+
+### Frontend
+
+- PHP
+
+### Backend
+
+- PHP
+
+### Database
+
+- MySQL / MariaDB
+
+### Server
+
+- Apache Server using XAMPP
+
+### Tools
+
+- XAMPP
+- phpMyAdmin
+- VS Code
+- GitHub
+
+---
+
+## 🗂️ Project Structure
+
+```text
+Municipality-Administrator-Citizen/
+│
+├── Code/
+│   ├── Controller/
+│   │   └── Contains PHP controller files for handling application logic
+│   │
+│   ├── Model/
+│   │   └── Contains PHP model files for database-related operations
+│   │
+│   ├── View/
+│   │   └── Contains frontend PHP pages for Admin, Citizen, and Employee
+│   │
+│   └── DB/
+│       └── Contains database connection file
+│
+└── README.md
+
+
+CREDENTIALS FOR TESTING THE PLATFORM:
+
+Citizen:
+	1. Email:	a2@gmail.com
+	   Password:	Admin1234
+
+	2. Email:	ajdinurce@gmail.com
+	   Password:	Ajdi12345
+
+Administrator:
+	1. Email:	admintest@gmail.com
+	   Password:	111
+
+	2. Email:	gballshi15@epoka.edu.al
+	   Password:	xhulio
+
+Municipality Employee:
+	1. Email:	enurce15@epoka.edu.al
+	   Password:	Erida123
+
+	2. Email:	jkeci15@epoka.edu.al
+	   Password:	Jorgo12345
+
+
+
+It should be noted that Municipality Employees will not be able to Sign Up themselves.
+Rather, accounts for them will be created by the system administrators. 
