@@ -226,19 +226,6 @@ The project should now run successfully.
 
 ---
 
-## 🔑 Default Access (Optional)
-
-You can add default login credentials here if available.
-
-Example:
-
-```text
-Admin Username: admin
-Password: admin123
-```
-
----
-
 ## 📌 Requirements
 
 - PHP 7.x or above
