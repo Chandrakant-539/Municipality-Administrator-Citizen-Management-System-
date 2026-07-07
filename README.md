@@ -238,7 +238,7 @@ The project should now run successfully.
 
 ## ✅ Project Status
 
-The project is successfully configured to run locally using XAMPP and phpMyAdmin.
+The project is successfully configured to run locally using XAMPP and phpMyAdmin. 
 
 ---
 
